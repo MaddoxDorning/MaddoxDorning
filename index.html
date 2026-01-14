@@ -1,20 +1,57 @@
-<DOCTYPE html>
+<!DOCTYPE html>
   <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>hello internet</hello>
-    </head>
-    <body>
 
-      <h1>hello internet</h1>
-      <p> from Maddox</p>
-      <h2> features</h2>
-      <ul>
-        <li>login</li>
-        <li>search</li>
-        <li>content "card"</li>
-        <lli> footer</lli>
-      </ul>
-    </body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hello internet</title>
+
+    <style>
+      body {
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin: 20px;
+        background-color:lch(from color l c h)
+      }
+
+    </style>
+  </head>
+
+  <body>
+
+    <h1>hello internet</h1>
+    <p> from Maddox</p>
+    <h2> features</h2>
+    <ul>
+      <li>login</li>
+      <li>search</li>
+      <li>content "card"</li>
+      <li> footer</li>
+    </ul>
+
+    <div class="login-container">
+      <h2>Plain Login</h2>
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="username">Username</label>
+          <input type="text" id="username" name="username" required>
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" required>
+        </div>
+        <button type="submit" class="btn-login">Login</button>
+        <div id="message" class="message"></div>
+      </form>
+    </div>
+
+    <script>
+      console.log("Password is: lasagna");
+
+    </script>
+    
+    
+    
+
+  </body>
+
   </html>
