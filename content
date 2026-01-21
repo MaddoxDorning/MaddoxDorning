@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maddox's Website</title>
+
+
+</head>
+
+<body>
+  <a href="index.html">home</a>
+
+  <div class="row"></div>
+
+  <div class="col-md-3 card">
+    <div class="card-header"></div>
+    <h4 class="card title">format vsCode</h4>
+    <p class="card text">tags: vsCode format shortcuts</p>
+    <p class="card text"><kbd>alt + shift + f</kbd></p>
+  </div>
+</body>
+
+
+</html>
