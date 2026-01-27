@@ -16,7 +16,3 @@ Information Technology Student at University of North Alabama
 
 <p align="left"> <a href="https://www.github.com/MaddoxDorning" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-<img width="808" height="124" alt="WBIdea1" src="https://github.com/user-attachments/assets/da387cff-2855-4486-9b5e-d2692c779feb" />
-<img width="1906" height="817" alt="WbIdea2" src="https://github.com/user-attachments/assets/4b55fc3c-271a-4273-9ddd-9efe01ca4e70" />
-
-<img width="458" height="410" alt="W" src="https://github.com/user-attachments/assets/4a0b3e27-82fc-4b95-93ee-c62ab2577780" />
